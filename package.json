@@ -24,7 +24,7 @@
     "testcafe": "1.0.0",
     "uglify-js": "3.4.9",
     "updtr": "3.1.0",
-    "watchify": "3.11.0"
+    "watchify": "3.11.1"
   },
   "files": [
     "lib",
