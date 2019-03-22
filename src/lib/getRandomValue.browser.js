@@ -11,7 +11,3 @@ if (crypto) {
 } else {
     getRandomValue = Math.random;
 }
-
-module.exports = getRandomValue;
-
-//# sourceMappingURL=getRandomValue.browser.js.map

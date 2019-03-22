@@ -1,20 +1,3 @@
-/**
- * cuid.js
- * Collision-resistant UID generator for browsers and node.
- * Sequential for fast db lookups and recency sorting.
- * Safe for element IDs and server-side lookups.
- *
- * Extracted from CLCTR
- *
- * Copyright (c) Eric Elliott 2012
- * MIT License
- */
- 
-
-var fingerprint = require('./lib/fingerprint.js');
-var pad = require('./lib/pad.js');
-var getRandomValue = require('./lib/getRandomValue.js');
-
 
 
 var c = 0,
@@ -83,7 +66,3 @@ cuid.isSlug = function isSlug (stringToCheck) {
 };
 
 cuid.fingerprint = fingerprint;
-
-module.exports = cuid;
-
-//# sourceMappingURL=index.js.map

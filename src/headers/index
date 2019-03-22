@@ -1,0 +1,3 @@
+var fingerprint = require('./lib/fingerprint.js');
+var pad = require('./lib/pad.js');
+var getRandomValue = require('./lib/getRandomValue.js');
