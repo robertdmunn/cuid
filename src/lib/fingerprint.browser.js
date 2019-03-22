@@ -1,4 +1,3 @@
-
 var env = typeof window === 'object' ? window : self;
 var globalCount = Object.keys(env).length;
 var mimeTypesLength = navigator.mimeTypes ? navigator.mimeTypes.length : 0;
