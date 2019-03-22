@@ -82,7 +82,7 @@ module.exports = {
     src: [
       "src/headers/index_license",
       "src/headers/index.es6",
-      "src/index.es6.js"
+      "src/index.js"
     ],
     dest: "index.es6.js"
   }
