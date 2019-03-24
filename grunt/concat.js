@@ -43,8 +43,7 @@ module.exports = {
   },
   pad: {
     options: {
-      sourceMap: true,
-      separator: ''
+      sourceMap: true
     },
     src: [
       "src/lib/headers/pad",
@@ -54,8 +53,7 @@ module.exports = {
   },
   pad_es6: {
     options: {
-      sourceMap: true,
-      separator: ''
+      sourceMap: true
     },
     src: [
       "src/lib/headers/pad.es6",

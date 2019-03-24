@@ -1,1 +1,1 @@
-export var pad =
+export { pad };
