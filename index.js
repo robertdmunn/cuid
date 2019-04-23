@@ -85,5 +85,3 @@ cuid.isSlug = function isSlug (stringToCheck) {
 cuid.fingerprint = fingerprint;
 
 module.exports = cuid;
-
-//# sourceMappingURL=index.js.map

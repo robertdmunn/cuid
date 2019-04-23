@@ -85,5 +85,3 @@ cuid.isSlug = function isSlug (stringToCheck) {
 };
 
 cuid.fingerprint = fingerprint;
-
-//# sourceMappingURL=index.es6.js.map
