@@ -17,8 +17,6 @@ import {getRandomValue} from './lib/getRandomValue.browser.es6.js';
 
 export { cuid };
 
-
-
 var c = 0,
   blockSize = 4,
   base = 36,

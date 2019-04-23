@@ -1,5 +1,3 @@
-
-
 var c = 0,
   blockSize = 4,
   base = 36,

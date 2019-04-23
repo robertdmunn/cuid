@@ -15,8 +15,6 @@ var fingerprint = require('./lib/fingerprint.js');
 var pad = require('./lib/pad.js');
 var getRandomValue = require('./lib/getRandomValue.js');
 
-
-
 var c = 0,
   blockSize = 4,
   base = 36,
